@@ -1,0 +1,16 @@
+{
+  "name": "enderlord-city-bots",
+  "version": "1.0.0",
+  "description": "5 builder bots (a1 b2 c3 d4 e5) that build a modern city, parks and rides without breaking any block.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start-all.js",
+    "start:single": "node index.js",
+    "test": "node test-builds.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.34.0",
+    "vec3": "^0.1.10"
+  }
+}

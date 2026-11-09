@@ -1,0 +1,9 @@
+{
+  "bots": [
+    { "name": "a1", "role": "skyline",  "startDelaySec": 0 },
+    { "name": "b2", "role": "gardener", "startDelaySec": 20 },
+    { "name": "c3", "role": "rides",    "startDelaySec": 40 },
+    { "name": "d4", "role": "landmark", "startDelaySec": 60 },
+    { "name": "e5", "role": "mixed",    "startDelaySec": 80 }
+  ]
+}
